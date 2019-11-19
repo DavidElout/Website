@@ -36,7 +36,7 @@
 }
 
 .card-bordercolor--green{
-    border-color: #0d7530;
+    border-color: #1071a8;
 }
 
 .card-img-top{
@@ -52,7 +52,7 @@
     background-color: #476add;
     border-color: #476add;
 }
-.background--black{
+.background--black{ 
     background: #111111;
 }
 
@@ -89,3 +89,7 @@
     color: grey;
 }
 
+.footer-font-size{
+    font-size: 12px;
+    text-align: center;
+}
