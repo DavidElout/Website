@@ -82,11 +82,16 @@
 }
 
 .text-color--white{
-    color: white;
+    color: #e2dede;
 }
 
 .text-color--grey{
     color: grey;
+}
+
+.footer-font-size{
+    font-size: 12px;
+    text-align: center;
 }
 
 .footer-font-size{
