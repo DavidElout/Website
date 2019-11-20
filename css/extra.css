@@ -113,20 +113,20 @@
 
 @media (min-width: 992px) {
     .card-img-small{
-        min-height: 12vw;
-        max-height: 12vw;
+        min-height: 8vw;
+        max-height: 8vw;
         object-fit: cover;
     }
 
     .card-img-med{
-        min-height: 16vw;
-        max-height: 16vw;
+        min-height: 14vw;
+        max-height: 14vw;
         object-fit: cover;
     }
     
     .card-img-big{
-        min-height: 20vw;
-        max-height: 20vw;
+        min-height: 18vw;
+        max-height: 18vw;
         object-fit: cover;
     }
 }
