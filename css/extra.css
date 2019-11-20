@@ -76,38 +76,38 @@
     .card-img-small{
         min-height: 36vw;
         max-height: 36vw;
-        object-fit: cover;
+        object-fit: fill;
     }
     
     .card-img-med{
         min-height: 30vw;
         max-height: 30vw;
-        object-fit: cover;
+        object-fit: fill;
     }
     
     .card-img-big{
         min-height: 36vw;
         max-height: 36vw;
-        object-fit: cover;
+        object-fit: fill;
     }
 
  @media (min-width: 768px) {
     .card-img-small{
         min-height: 20vw;
         max-height: 20vw;
-        object-fit: cover;
+        object-fit: fill;
     }
     
     .card-img-med{
         min-height: 18vw;
         max-height: 18vw;
-        object-fit: cover;
+        object-fit: fill;
     }
     
     .card-img-big{
         min-height: 20vw;
         max-height: 20vw;
-        object-fit: cover;
+        object-fit: fill;
     }
 }
 
@@ -115,18 +115,18 @@
     .card-img-small{
         min-height: 8vw;
         max-height: 8vw;
-        object-fit: cover;
+        object-fit: fill;
     }
 
     .card-img-med{
         min-height: 14vw;
         max-height: 14vw;
-        object-fit: cover;
+        object-fit: fill;
     }
     
     .card-img-big{
-        min-height: 18vw;
-        max-height: 18vw;
-        object-fit: cover;
+        min-height: 16vw;
+        max-height: 16vw;
+        object-fit: fill;
     }
 }
