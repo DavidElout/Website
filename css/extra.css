@@ -80,14 +80,14 @@
     }
     
     .card-img-med{
-        min-height: 30vw;
-        max-height: 30vw;
+        min-height: 45vw;
+        max-height: 45vw;
         object-fit: fill;
     }
     
     .card-img-big{
-        min-height: 36vw;
-        max-height: 36vw;
+        min-height: 45vw;
+        max-height: 45vw;
         object-fit: fill;
     }
 
